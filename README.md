@@ -20,7 +20,6 @@
 Users should be able to:
 
 - View the optimal layout for the site depending on their device's screen size
-- See hover states for all interactive elements on the page
 
 ### Screenshot
 
@@ -28,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Blogr Landing Page Solution](https://www.frontendmentor.io/challenges/blogr-landing-page-EX2RLAApP/hub/htmlcsssassjavascriptflexbox-7k8375yN6)
-- Live Site URL: [Live Site](https://blogr-landin-site.netlify.app/)
+- Solution URL: [Profile Card Component Solution](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ/hub/html5css3flexboxsass-LI4n9939G)
+- Live Site URL: [Live Site](https://profile-card-ux.netlify.app/)
 
 ## My process
 
@@ -39,6 +38,7 @@ Users should be able to:
 - Sass (Syntactically awesome stylesheets)
 - CSS custom properties
 - Flexbox
+- AOS animaion
 - Mobile-first workflow
 
 ## Author
