@@ -1,0 +1,48 @@
+@import "global";
+@import "card";
+
+.attribution {
+  position: absolute;
+  top: 100%;
+  left: 37%;
+  font-size: 0.8rem;
+  text-align: center;
+  color: white;
+}
+.attribution a {
+  color: $primary_very_dark_desaturated_blue;
+}
+
+@media screen and (max-width: 900px) {
+  .attribution {
+    left: 10%;
+  }
+  .card {
+    width: 95vw;
+    hr {
+      width: 95vw;
+    }
+
+    .avatar-info {
+      img {
+        margin-top: 6rem;
+      }
+    }
+  }
+}
+
+@media screen and (min-width: 768px) and (max-width: 1024px) {
+  .card {
+    width: 95vw;
+
+    hr {
+      width: 95vw;
+    }
+
+    .avatar-info {
+      img {
+        margin-top: 15rem;
+      }
+    }
+  }
+}
