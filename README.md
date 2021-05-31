@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Profile Card Component Solution](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ/hub/html5css3flexboxsass-LI4n9939G)
+- Solution URL: [Profile Card Component Solution](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ/hub/html5css3flexboxsass-xiJDFSUtt)
 - Live Site URL: [Live Site](https://profile-card-ux.netlify.app/)
 
 ## My process
