@@ -30,16 +30,6 @@ body {
     url("../images/bg-pattern-bottom.svg") no-repeat left 50vw top 40vh,
     $primary_dark_cyan;
   background-attachment: fixed;
-  animation: anim 2s ease-in alternate;
   font-family: "Kumbh Sans", sans-serif;
   min-height: 100vh;
-}
-
-@keyframes anim {
-  from {
-    background-size: 0%;
-  }
-  to {
-    background-size: 100%;
-  }
 }
